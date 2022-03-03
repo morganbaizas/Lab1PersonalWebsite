@@ -1,0 +1,23 @@
+html {
+    font-family: 'Hubballi', cursive;
+    background-color: lightcoral;
+    width: fit-content;
+    margin: 0 auto;
+}
+body {
+    background-color: white;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+ul {
+    list-style-position:inside;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
